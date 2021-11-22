@@ -22,3 +22,4 @@ after_success:
   - docker push ukjaiswal/multi-nginx
   - docker push ukjaiswal/multi-server
   - docker push ukjaiswal/multi-worker
+
